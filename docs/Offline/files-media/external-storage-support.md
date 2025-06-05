@@ -19,7 +19,7 @@ If your device lacks sufficient internal space and includes an **SD/MicroSD card
 
 You can verify whether Bharat Signage detects your SD card or USB drive by navigating to:
 
-**_Device Information → External Storages_**
+## **_Device Information → External Storages_**
 
 ### 📂 External Storage Folder Paths
 
