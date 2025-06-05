@@ -1,47 +1,70 @@
 ---
 sidebar_position: 1
+title: 👋 Welcome to Bharat Signage
 ---
 
-# Tutorial Intro
+# 👋 Welcome to Bharat Signage
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the official documentation for **Bharat Signage**, the most elegant and powerful digital signage platform built to elevate your brand, business, or organization. Whether you're displaying content on one screen or managing hundreds of devices across locations, Bharat Signage makes it easy, reliable, and efficient.
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## 🌟 What is Bharat Signage?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**Bharat Signage** is a smart, cloud-enabled digital signage solution designed for Android TVs and devices. With our user-friendly web interface and Android app, you can transform any screen into a dynamic content hub.
 
-### What you'll need
+---
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 🎯 Who is it for?
 
-## Generate a new site
+- 📺 **Retail Stores & Showrooms**
+- 🏨 **Hotels & Restaurants**
+- 🏢 **Offices & Corporates**
+- 🏫 **Schools & Educational Institutes**
+- 🎭 **Events & Exhibitions**
+- 💒 **Temples & Public Displays**
 
-Generate a new Docusaurus site using the **classic template**.
+Whether you're a small business or a large enterprise, Bharat Signage adapts to your needs with style and performance.
 
-The classic template will automatically be added to your project after you run the command:
+---
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 🚀 What Can You Do?
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- 📁 Schedule images, videos, and web content to play in perfect sync.
+- 🔁 Loop, transition, and preload media smoothly.
+- 🌐 Control screens remotely via web dashboard.
+- 📅 Schedule content playlists and layouts by time/date.
+- 🔊 Adjust brightness, volume, and screen behavior.
+- 📦 Offline-first: Works even without internet.
+- 🔐 Secure login, permissions, and content delivery.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+## 📚 What's Inside This Documentation?
 
-Run the development server:
+This guide helps you get the most out of Bharat Signage. You'll find:
 
-```bash
-cd my-website
-npm run start
-```
+- 📲 **Installation & Setup** – How to install the app and connect devices.
+- 🖼️ **Creating Layouts & Playlists** – Design and schedule your media flow.
+- 🛠️ **Advanced Features** – Custom web views, HDMI inputs, device properties, and more.
+- 🌍 **Web Interface & Remote Management** – Control everything from your browser.
+- 🧩 **Integrations** – Google Drive, Dropbox, USB, and more.
+- 🧑‍💻 **Developer Tips** – For custom templates, APIs, and automation.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+---
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## 💎 Why Choose Bharat Signage?
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- 🏆 Trusted by businesses across India.
+- ✨ Luxury experience, minimal setup.
+- 💡 Constantly evolving with new updates and features.
+- 🇮🇳 Made in India, for the world.
+
+---
+
+## 📞 Need Help?
+
+Our support team is here to assist you.  
+Visit our [website](https://www.bharatsignage.com) or reach out to us directly for help.
+
+> Let your screens speak for your brand — with **Bharat Signage**.
