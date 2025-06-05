@@ -69,7 +69,7 @@ const config: Config = {
       title: "Bharat Signage",
       logo: {
         alt: "Bharat Signage Logo",
-        src: "img/logo.svg",
+        src: "img/docusaurus.png",
       },
       items: [
         {
