@@ -40,7 +40,7 @@ This guide explains how to update content on your **Bharat Signage** ad screens 
 3. Copy all your content files (videos, images, text, etc.) into the  
    **`bharatsignage`** folder.
 4. For supported formats, visit:  
-   **[https://bharatsignage.com/application/docs/offline/supported-file-type](https://bharatsignage.com/application/docs/offline/supported-file-type)**
+   **[https://docs.bharatsignage.com/docs/Offline/files-media/supported-file-formats](https://docs.bharatsignage.com/docs/Offline/files-media/supported-file-formats)**
 
 ---
 
