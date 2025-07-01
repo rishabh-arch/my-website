@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# 🚀 What's New in Version 3.1.3
+# 🚀 What's New in Version 3.2.0
 
-Welcome to **Bharat Signage 3.1.3** — our biggest release yet!  
+Welcome to **Bharat Signage 3.2.0** — our biggest release yet!  
 This update brings **powerful new features**, **major UI enhancements**, and **crucial bug fixes** to make your digital signage experience **smarter, faster, and smoother**.
 
 ---
@@ -42,6 +42,8 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Custom Marquee** – Marquee text with height customization, and play/pause toggle.
 - **Slide Animation & Direction** – Add entrance/exit animations and choose slide direction.
 - **Preloading Contents** – Load content in advance for smoother transitions.
+- **PDF Viewer** – View PDF files directly in the app with zoom and navigation controls.
+- **Live Streaming Support** – Stream live video from HLS or other sources directly in layouts.
 
 ---
 
@@ -54,6 +56,8 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Set-as-Background (Now Free)** – Assign a background from media without restrictions.
 - **Video Thumbnails** – Preview thumbnails for video files in the gallery.
 - **Resolution Property** – View and sort media based on resolution.
+- **PDF Document Support** – Upload and manage PDF files directly from the website.
+- **Custom Playlist Colors** – Assign custom colors to playlists for better organization.
 
 ---
 
@@ -66,6 +70,8 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Wi-Fi Timeout Issue (Fixed)** – Bypasses slow load times on Wi-Fi without internet.
 - **Playlist Scheduling (Fixed)** – More reliable execution of scheduled playlists.
 - **Device Online Status (Fixed)** – Real-time device connectivity is now more accurate.
+- **Marquee (Fixed)** – Fixes for marquee text display issues.
+- **QR Code in Layout Templates** – Now supports displaying QR codes in custom layouts.
 
 ---
 
