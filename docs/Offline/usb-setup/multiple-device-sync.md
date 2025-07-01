@@ -12,11 +12,11 @@ sidebar_position: 3
 
 This guide walks you through setting up **multiple Bharat Signage Android devices** to **play synchronized content**—starting at the **same timestamp**, frame-perfect, with optional **smooth playback**. This is ideal for installations like video walls, digital menu boards, or synchronized ads across screens.
 
-![Example banner](/img/real-world-images/three-display-sync.png)
+![Example banner](/img/real-world-images/two-display-sync.png)
 
 > 🔗 Required:  
 > Visit the Bharat Signage CMS offline USB setup page:  
-> **[https://cms.bharatsignage.com/offline-usb/](https://cms.bharatsignage.com/offline-usb/)**  
+> **[https://cms.bharatsignage.com/offline-usb/](https://cms.bharatsignage.com/offline-usb/)**
 > Use **version 4.9.16** or **4.10** for synchronization features.
 
 ---
