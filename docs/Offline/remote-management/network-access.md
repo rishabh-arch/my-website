@@ -74,7 +74,7 @@ Access uploaded files using an **FTP client** (e.g., WinSCP, Total Commander).
 | IP Address        | Device’s LAN IP                   |
 | Port (rooted)     | `21`                              |
 | Port (non-rooted) | `8021`                            |
-| Username/Password | Same as web login (`admin/admin`) |
+| Username/Password | Same as web login (`bsadmin/2024bsadmin##`) |
 
 - Check current port via: `On-screen menu → Help`
 - Change port via: `Settings → Device settings → FTP port number`
@@ -94,6 +94,6 @@ Access files using a **WebDAV client** (e.g., WinSCP).
 | IP Address        | Device’s LAN IP                   |
 | Port              | Same as HTTP/HTTPS                |
 | Path              | `/webdav`                         |
-| Username/Password | Same as web login (`admin/admin`) |
+| Username/Password | Same as web login (`bsadmin/2024bsadmin##`) |
 
 > ⚠️ Windows’ built-in WebDAV client is **not fully compatible** (due to lack of Basic Auth support).
