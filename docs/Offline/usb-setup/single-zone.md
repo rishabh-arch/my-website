@@ -8,6 +8,8 @@ sidebar_position: 1
 
 ---
 
+![Example banner](/img/real-world-images/wall-mount.png)
+
 ### 1. **Introduction**
 
 This guide explains how to update content on your **Bharat Signage** ad screens using a **USB pen drive**.

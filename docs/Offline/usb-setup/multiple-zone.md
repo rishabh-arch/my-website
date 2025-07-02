@@ -54,11 +54,15 @@ Create plain text files inside the **`bharatsignage`** folder:
 - **`RSS`** – Type your RSS message into this file (all caps, no extension).
 - **`TIME`** – Leave this file empty to display current time (all caps, no extension).
 - To rotate the screen:
+
   - Create a file named
     - **`270`** for portrait
     - **`90`** for reverse flip
     - **`180`** for landscape flip
     - **`0`** for normal landscape orientation
+
+- Ensure the folder structure looks like this:
+  ![Example banner](/img/offline-usb-images/folder-structure.png)
 
 ---
 
