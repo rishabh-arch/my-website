@@ -1,10 +1,10 @@
 ---
+title: 🚀 What's New in Version Online 3.2.1
+description: Discover the latest features, enhancements, and fixes in Bharat Signage 3.2.1.
 sidebar_position: 1
 ---
 
-# 🚀 What's New in Version 3.2.0
-
-Welcome to **Bharat Signage 3.2.0** — our biggest release yet!  
+Welcome to **Bharat Signage 3.2.1** — our biggest release yet!  
 This update brings **powerful new features**, **major UI enhancements**, and **crucial bug fixes** to make your digital signage experience **smarter, faster, and smoother**.
 
 ---
@@ -44,6 +44,11 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Preloading Contents** – Load content in advance for smoother transitions.
 - **PDF Viewer** – View PDF files directly in the app with zoom and navigation controls.
 - **Live Streaming Support** – Stream live video from HLS or other sources directly in layouts.
+- **Font Family Selection** – Choose from multiple font families for text in custom layouts.
+- **New Border Styles** – Add borders to images and videos with various styles.
+- **Image & Video Effects** – Apply effects like grayscale, saturation, and blur to images and videos.
+- **Youtube Shorts Support** – Play YouTube Shorts directly in the app.
+- **Website * Iframe Features** – Enhanced support for displaying websites in iframes with custom controls.
 
 ---
 
