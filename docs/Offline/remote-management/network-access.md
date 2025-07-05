@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
+title: Local Web & Remote Interfaces
+description: Access and manage Bharat Signage devices via local web interface, FTP, WebDAV, and remote synchronization.
 ---
-
-# Local Web & Remote Interfaces
 
 **Bharat Signage Slideshow** can be managed from your **computer, phone, or tablet** if the Android device is connected to the **same local network (LAN)**.  
 For **remote access**, use file synchronization via **HTTP/FTP**, **Google Drive**, or **Dropbox**.
@@ -69,11 +69,11 @@ Access uploaded files using an **FTP client** (e.g., WinSCP, Total Commander).
 
 ### FTP Settings
 
-| Setting           | Value                             |
-| ----------------- | --------------------------------- |
-| IP Address        | Device’s LAN IP                   |
-| Port (rooted)     | `21`                              |
-| Port (non-rooted) | `8021`                            |
+| Setting           | Value                                       |
+| ----------------- | ------------------------------------------- |
+| IP Address        | Device’s LAN IP                             |
+| Port (rooted)     | `21`                                        |
+| Port (non-rooted) | `8021`                                      |
 | Username/Password | Same as web login (`bsadmin/2024bsadmin##`) |
 
 - Check current port via: `On-screen menu → Help`
@@ -89,11 +89,11 @@ Access files using a **WebDAV client** (e.g., WinSCP).
 
 ### WebDAV Settings
 
-| Setting           | Value                             |
-| ----------------- | --------------------------------- |
-| IP Address        | Device’s LAN IP                   |
-| Port              | Same as HTTP/HTTPS                |
-| Path              | `/webdav`                         |
+| Setting           | Value                                       |
+| ----------------- | ------------------------------------------- |
+| IP Address        | Device’s LAN IP                             |
+| Port              | Same as HTTP/HTTPS                          |
+| Path              | `/webdav`                                   |
 | Username/Password | Same as web login (`bsadmin/2024bsadmin##`) |
 
 > ⚠️ Windows’ built-in WebDAV client is **not fully compatible** (due to lack of Basic Auth support).
