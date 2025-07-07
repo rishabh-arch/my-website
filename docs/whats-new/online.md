@@ -1,10 +1,10 @@
 ---
-title: 🚀 What's New in Version Online 3.2.1
-description: Discover the latest features, enhancements, and fixes in Bharat Signage 3.2.1.
+title: 🚀 What's New in Version Online 3.2.2
+description: Discover the latest features, enhancements, and fixes in Bharat Signage 3.2.2.
 sidebar_position: 1
 ---
 
-Welcome to **Bharat Signage 3.2.1** — our biggest release yet!  
+Welcome to **Bharat Signage 3.2.2** — our biggest release yet!  
 This update brings **powerful new features**, **major UI enhancements**, and **crucial bug fixes** to make your digital signage experience **smarter, faster, and smoother**.
 
 ---
@@ -25,6 +25,11 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Network Timeout Skip Toggle** – Option to skip waiting for internet connection during startup.
 - **Live Screenshot** – Capture and view a live screenshot of the device remotely.
 - **Device Property Page** – View technical details and current status of each device.
+
+### 🖼️ Playlist
+
+- **PDF Support** – Simply Drag your PDF documents into your Playlist.
+- **Custom Playlist Colors** – Assign unique colors to playlists for better organization.
 
 ### 🖼️ Layouts & Media Playback
 
@@ -49,6 +54,7 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Image & Video Effects** – Apply effects like grayscale, saturation, and blur to images and videos.
 - **Youtube Shorts Support** – Play YouTube Shorts directly in the app.
 - **Website * Iframe Features** – Enhanced support for displaying websites in iframes with custom controls.
+- **Video Playback Speed Control** – Adjust playback speed for videos in playlists.
 
 ---
 
@@ -61,8 +67,6 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Set-as-Background (Now Free)** – Assign a background from media without restrictions.
 - **Video Thumbnails** – Preview thumbnails for video files in the gallery.
 - **Resolution Property** – View and sort media based on resolution.
-- **PDF Document Support** – Upload and manage PDF files directly from the website.
-- **Custom Playlist Colors** – Assign custom colors to playlists for better organization.
 
 ---
 
@@ -77,6 +81,7 @@ This update brings **powerful new features**, **major UI enhancements**, and **c
 - **Device Online Status (Fixed)** – Real-time device connectivity is now more accurate.
 - **Marquee (Fixed)** – Fixes for marquee text display issues.
 - **QR Code in Layout Templates** – Now supports displaying QR codes in custom layouts.
+- **Custom Layouts (Fixed)** – Improved stability and performance for custom layouts.
 
 ---
 
