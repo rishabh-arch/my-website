@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 title: 🌐 Bharat Signage - Online vs Offline Mode Comparison
 description: Understand the key differences between Bharat Signage's online and offline versions, including features,
 ---

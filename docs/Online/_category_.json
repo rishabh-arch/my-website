@@ -1,0 +1,8 @@
+{
+  "label": "Online - Documentation",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Online features of Bharat Signage, including file management, media support, and more."
+  }
+}
