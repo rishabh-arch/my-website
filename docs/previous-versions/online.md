@@ -1,7 +1,7 @@
 ---
-title: 🚀 What's New in Version Online 3.2.2
+title: Online 3.2.2
 description: Discover the latest features, enhancements, and fixes in Bharat Signage 3.2.2.
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 Welcome to **Bharat Signage 3.2.2** — our biggest release yet!  
